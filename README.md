@@ -7,7 +7,7 @@
 <h1 align="center">Hi, I'm <a href="jitsudark.github.io/wfinance-tracker20.github.io">DarkJS</a>!</h1>
 <p align="center">
   <a href="https://jitsudark.github.io/wfinance-tracker20.github.io/">
-    <img src="Frame 1(2).webp" alt="DarkJS" width="10%">
+    <img src="Frame 1(2).png" alt="DarkJS" width="10%">
   </a>
 </p>
 <h3 align="center">Welcome to my GitHub profile :3</h3>
