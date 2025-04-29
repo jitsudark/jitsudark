@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="[https://jitsudark.github.io/wfinance-tracker20.github.io/](https://jitsudark.github.io/darkjs-financetracker.github.io/)">
+  <a href="[https://jitsudark.github.io/darkjs-financetracker.github.io/]">
     <img src="gifberserk.gif" alt="Banner" width="87%">
   </a>
 </p>
