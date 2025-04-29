@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="jitsudark.github.io/wfinance-tracker20.github.io">DarkJS</a>!</h1>
+<h1 align="center">Hi, I'm <a href="jitsudark.github.io/darkjs-financetracker.github.io/">DarkJS</a>!</h1>
 <p align="center">
   <a href="https://jitsudark.github.io/wfinance-tracker20.github.io/">
     <img src="Frame 1(2).png" alt="DarkJS" width="10%">
