@@ -4,9 +4,9 @@
   </a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="jitsudark.github.io/darkjs-financetracker.github.io/">DarkJS</a>!</h1>
+<h1 align="center">Hi, I'm <a href="[jitsudark.github.io/darkjs-financetracker.github.io/](https://jitsudark.github.io/darkjs-financetracker.github.io/)">DarkJS</a>!</h1>
 <p align="center">
-  <a href="https://jitsudark.github.io/wfinance-tracker20.github.io/">
+  <a href="[https://jitsudark.github.io/wfinance-tracker20.github.io/](https://jitsudark.github.io/darkjs-financetracker.github.io/)">
     <img src="Frame 1(2).png" alt="DarkJS" width="10%">
   </a>
 </p>
@@ -15,7 +15,7 @@
 <p align="center"> Hi, I'm currently working Software, Philosophy ,  and Content Creation.</p>
 
 <p align="center">
-  <strong><a href="jitsudark.github.io/wfinance-tracker20.github.io">Website</a></strong> |
+  <strong><a href="[jitsudark.github.io/wfinance-tracker20.github.io](https://jitsudark.github.io/darkjs-financetracker.github.io/)">Website</a></strong> |
   <strong><a href="https://x.com/Darkjitsusay">Twitter</a></strong> |
   <strong><a href="https://t.me/darkjitsusay">Telegram</a></strong>
 </p>
